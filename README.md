@@ -2,9 +2,9 @@
 ### I love Analytics
 _Goals for this course_
 -----------------------
-1. proficiency using analytic tools
-1. ~become more comfortable with verbal communication~
-1. produce a great capstone
+1. ~Become more comfortable with verbal communication~
+1. Proficiency using analytic tools
+1. Produce a great capstone
    
 * [What is Python?](https://www.python.org/doc/essays/blurb/ "What is Python?")
 
